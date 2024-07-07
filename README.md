@@ -1,8 +1,15 @@
 Hi, I’m Krithika Vijayakumar 👋
 
 About Me:
-- As a Senior Analyst at Accenture, I enhance customer experience through Pega platform development, Cloud Technologies and provide Direct-to-Consumer analytics.
-- 
+As a Senior Analyst, my work revolves around enhancing customer experiences through innovative Pega platform development, Cloud Technologies and delivering impactful Direct-to-Consumer analytics. I thrive on delving deep into data analytics, crafting successful product launch strategies, and optimizing Analytical KPIs. My Master of Science in Computer Information Systems has enriched my expertise, allowing me to stay at the forefront of information assurance and enterprise-level solutions.
+
+What I'm Interested In:
+- **Data Transformation & Visualization**: I love transforming raw data into actionable insights. Using tools like Power BI, Tableau, and Looker, I create analytics dashboards that drive strategic decision-making.
+- **Building Robust Pipelines**: Working with Apache Airflow and Python, I build data pipelines that ensure smooth and efficient data flow.
+- **Distributed Systems**: I'm fascinated by the power of distributed systems like Hadoop and Spark, which I use to process large-scale datasets.
+- **Cloud Computing**: Leveraging the capabilities of Azure, and AWS. I ensure that solutions are scalable and secure.
+
+#### Currently Learning:
 Skills:
 - **Data Transformation & Visualization**: 
   - Transforming business logic by pulling data from relational databases and feeding it to Data warehouses.
@@ -31,7 +38,6 @@ Skills:
   - Delivering compelling application demonstrations to senior stakeholders.
 
 #### Certifications:
-- 🎓 Pega CSA
 - 🎓 Pega CSSA
 - 🎓 Azure Data Engineering
 - 🎓 Business Intelligence from Colorado State University
