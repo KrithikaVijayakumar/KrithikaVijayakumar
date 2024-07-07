@@ -1,6 +1,6 @@
 Hi, I’m Krithika Vijayakumar 👋
 
-About Me:
+**About Me:**
 As a Senior Analyst, my work revolves around enhancing customer experiences through innovative Pega platform development, Cloud Technologies and delivering impactful Direct-to-Consumer analytics. I thrive on delving deep into data analytics, crafting successful product launch strategies, and optimizing Analytical KPIs. My Master of Science in Computer Information Systems has enriched my expertise, allowing me to stay at the forefront of information assurance and enterprise-level solutions.
 
 What I'm Interested In:
